@@ -1,5 +1,5 @@
 """
-GA Knapsack algortihm.
+GA Knapsack algorithm.
 """
 
 # ----- Dependencies
